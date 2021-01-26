@@ -1,5 +1,9 @@
 # SMS
 
+Kasih bintang dan watch nya untuk suport w y... 
+
+Cara penginstalan... 
+
 $Pkg update && pkg upgrade
 
 $Pkg install git
